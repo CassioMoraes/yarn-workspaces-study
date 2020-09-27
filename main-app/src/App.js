@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import MainAppLabel from './components/MainAppLabel';
 import CommonLabel from 'common-app/src/components/CommonLabel';
+import VideoFrame from 'common-app/src/components/VideoFrame';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           Learn React
          <MainAppLabel />
         <CommonLabel />
+        <VideoFrame />
       </header>
     </div>
   );
