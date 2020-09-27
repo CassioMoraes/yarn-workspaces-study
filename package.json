@@ -6,5 +6,5 @@
   "author": "Cassio Moraes <cassio.castilhos@gmail.com>",
   "license": "MIT",
   "private": true,
-  "workspaces": ["main-app", "common"]
+  "workspaces": ["main-app", "common-app"]
 }
